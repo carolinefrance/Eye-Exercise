@@ -1,5 +1,5 @@
 # Eye-Exercise
-The code for this exercise was created by faculty for MiT xPro's Professional Certificate in Coding: Full Stack Development with MERN course (August 2022 cohort). I modified the style of the map.
+The code for this exercise was created by faculty for MiT xPro's Professional Certificate in Coding: Full Stack Development with MERN course (August 2022 cohort). I modified the style by overlaying a mask and changing the orientation, size, and position of elements.
 
 ##### Caroline J. France
 Last updated on 29 November 2022
